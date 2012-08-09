@@ -1,5 +1,5 @@
 GNU General Public License
-                       Versión 3, 29 junio 2007
+                       Versión 1, 09 agosto 2012
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Se permite la copia y distribución de copias literales
